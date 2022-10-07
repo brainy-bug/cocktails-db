@@ -1,6 +1,5 @@
-#### React Router Fix
-
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+## CocktailsDB
+#### An open, crowd-sourced database of drinks and cocktails from around the world.
 
 #### CRA Fix
 
