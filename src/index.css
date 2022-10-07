@@ -464,6 +464,7 @@ Cocktail
 
 .cocktail-section {
   text-align: center;
+  padding: 3rem 1rem;
 }
 .drink {
   width: var(--smallWidth);

@@ -11,8 +11,13 @@ import Error from "../pages/Error";
 // import components
 import Navbar from "./Navbar";
 import Sidebar from "./SideBar";
+import { useGlobalContext } from "../context";
 
 function App() {
+  const { isSideBarOpen } = useGlobalContext();
+  if (isSideBarOpen) document.body.classList.add("no-scroll");
+  else document.body.classList.remove("no-scroll");
+
   return (
     <BrowserRouter>
       <Navbar />
