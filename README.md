@@ -1,9 +1,10 @@
 ## CocktailsDB - with ReactJS
 #### An open, crowd-sourced database of drinks and cocktails from around the world.
-### [View Project](yk-cocktails.netlify.app)
+### [View Project](
+https://yk-cocktails.netlify.app/)
 
 #### CRA Fix
-
+https://yk-cocktails.netlify.app/
 ```
 
 "build": "CI= react-scripts build",
